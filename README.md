@@ -12,6 +12,9 @@ Part 1: 00_Mendeleev_Elements_Properties.ipynb
 
 ** 1D Descriptors: As an example, for chemical elements, the Periodic Table-Based Descriptors (Elements Properties) can be extracted and used as descriptors.
 * One code is to extract these properties using the "Mendeleev" Library according to the elements in the data point.
+* data files: 
+-Added_Elements_Properties.xlsx
+-Mendeleev_units_updated.xlsx
 
 
 Part 2: Another code is to extract the "mat2vec embeddings" using the "megnet" library.
